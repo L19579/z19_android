@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Greeting Card</string>
+    <string name="pointless_msg_text">pointless msg</string>
+</resources>
